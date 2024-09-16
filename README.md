@@ -50,3 +50,7 @@ and also add this to container network:
       - backend
       - frontend
 ```
+
+## Credits
+
+- [Marks Bogdanovs](https://www.ezitisitis.com)
